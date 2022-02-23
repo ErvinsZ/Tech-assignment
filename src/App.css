@@ -1,0 +1,40 @@
+.bold{
+  font-weight: bold;
+}
+.m-40{
+  margin-left: 40px;
+}
+.m-10{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.form{
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #c1b8b8;
+  padding:10px
+}
+
+.form-wrapper{
+  position: absolute;
+    width: 300px;
+    height: 240px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    background: #c1b8b8;
+}
+
+.close-btn{
+  float:right
+}
+.m-40 button{
+  margin-left:5px
+}
+
+p{
+  margin:0
+}
