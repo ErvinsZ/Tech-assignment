@@ -7,13 +7,13 @@ This application allows user to manipulate(Add/Delete) data in the UI which is i
 
 # Implementation :
 Project is divided into components with the following hierarchy: 
-    > App.js
-        >> CategoryList.jsx - initial data form json is imported, mapped and passed down to children, most functions executed in this component
-            >>> Category.jsx
-                >>>> BrandList.jsx
-                    >>>>> Brand.jsx
-                        >>>>>> ProductList.jsx
-                            >>>>>>> Product.jsx
+    * > App.js
+        * >> CategoryList.jsx - initial data form json is imported, mapped and passed down to children, most functions executed in this component
+            * >>> Category.jsx
+                * >>>> BrandList.jsx
+                    * >>>>> Brand.jsx
+                        * >>>>>> ProductList.jsx
+                            * >>>>>>> Product.jsx
 
 Functionality:
     * Delete Categories, Brands, Products
