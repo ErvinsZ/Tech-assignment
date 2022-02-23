@@ -1,7 +1,7 @@
 # Tech assignment
 
 This application allows user to manipulate(Add/Delete) data in the UI which is imported from a json file.
-![Alt Text](openlibraryapi.gif)
+![Alt Text](tech-assign.gif)
 # Technologies Used:
 
     * React Js
